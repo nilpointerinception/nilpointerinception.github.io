@@ -1,5 +1,7 @@
 $(function() {
-  $.post("external.php", function(data) {
-    $(".result").html(data);
+  $("#ajaxButton").click(function() {
+    $.post("external.php", function(data) {
+      $("#name").html(data);
+    });
   });
 });
