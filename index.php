@@ -1,22 +1,15 @@
-<?php
-
-$link = "Nilpointerinception.Github.io";
-$name = "nilPointerInception";
-$description = "Github User Site";
-
-?>
-
 <!doctype html>
 <html>
 
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="chrome=1">
-  <title><?php echo $link . " by " . $name; ?></title>
+  <title>Nilpointerinception.GitHub.io by nilpointerinception</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
   <link rel="stylesheet" href="stylesheets/styles.css">
   <link rel="stylesheet" href="stylesheets/pygment_trac.css">
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
 </head>
 
 <body>
@@ -30,8 +23,8 @@ $description = "Github User Site";
   <div class="wrapper">
     <section>
       <div id="title">
-        <h1><?php echo $name; ?></h1>
-        <p><?php echo $description; ?></p>
+        <h1>Nilpointerinception.GitHub.io</h1>
+        <p>User site</p>
         <hr>
         <span class="credits left">Project maintained by <a href="https://github.com/nilpointerinception">nilpointerinception</a>
         </span>
