@@ -1,0 +1,12 @@
+#ajaxButton {
+  width: 4em;
+  display: table;
+  margin: -3.75em auto 2em;
+  padding: .75em;
+}
+#bringToTop {
+  margin: 1em;
+}
+.newPost {
+  display: none;
+}
